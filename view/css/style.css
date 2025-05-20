@@ -124,18 +124,18 @@ margin-bottom: -20px;
 margin-left: 175px;
 }
 .project-card a {
-  text-decoration: none;   /* Remove sublinhado */
-  color: inherit;          /* Usa a cor do pai (.project-card) */
-  display: flex;           /* Centraliza conteúdo com flexbox */
+  text-decoration: none;   
+  color: inherit;          
+  display: flex;           
   align-items: center;
   justify-content: center;
-  height: 100%;            /* Garante que ocupe toda a altura do card */
+  height: 100%;            
 }
 
 .project-card h2.txt {
   margin: 0;
   font-size: 18px;
-  color: #fff;             /* Você pode ajustar essa cor conforme quiser */
+  color: #fff;             
 }
 
 .git {
@@ -156,5 +156,3 @@ margin-left: 175px;
 .git a:hover {
   transform: scale(1.1);
 }
-
-
